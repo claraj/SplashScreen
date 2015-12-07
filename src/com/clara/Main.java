@@ -78,7 +78,9 @@ public class Main {
         }
 
 
-       MyGUI gui = new MyGUI();
-        //gui.setVisible(true);
+        //Now your code starts....
+
+        MyGUI gui = new MyGUI();
+
     }
 }
